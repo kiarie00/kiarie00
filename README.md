@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=17&duration=3500&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=Self+Hosting+Services;System+Automation;Server+Infrastructure;Financial+Trading+Architecture;Founded+Forge+Tech+Frontier" alt="tagline" />
   <br />
 
-  <a href="https://ftf.co.ke"><img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=00e676" alt="Portfolio" /></a>
+  <a href="https://brand.ftf.co.ke"><img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=00e676" alt="Portfolio" /></a>
 </div>
 
 <br />
