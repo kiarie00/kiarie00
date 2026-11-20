@@ -18,18 +18,6 @@
 <img src="https://img.shields.io/badge/Cloudflare_Tunnels-0b1220?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Docker_Compose-0b1220?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 
-</div>
-
-<br />
-
-<div align="center">
-
-### GitHub Streaks
-
-<img src="https://streak-stats.demolab.com/?user=kiarie00&theme=transparent&background=0b1220&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=cbd5e1&dates=64748b&hide_border=true" width="520" alt="GitHub streak" />
-
-</div>
-
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00e676,100:0b1220&section=footer" width="100%" alt="" />
